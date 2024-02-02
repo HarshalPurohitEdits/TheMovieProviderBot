@@ -1,3 +1,6 @@
+# SPECIAL THANKS TO [Rishikesh Sharma] @Rk_botowner FOR THESE AMAZING CODES
+# SPECIAL THANKS TO @DeletedFromEarth FOR MODIFYING THESE AMAZING CODES
+
 from datetime import timedelta
 import pytz
 import datetime, time
@@ -148,4 +151,5 @@ async def plan(client, message):
     ]]
     await message.reply_photo(photo="https://telegra.ph/file/734170f40b8169830d821.jpg", caption=script.PREMIUM_TEXT.format(message.from_user.mention), reply_markup=InlineKeyboardMarkup(btn))
     
-      
+# SPECIAL THANKS TO [Rishikesh Sharma] @Rk_botowner FOR THESE AMAZING CODES
+# SPECIAL THANKS TO @DeletedFromEarth FOR MODIFYING THESE AMAZING CODES 
